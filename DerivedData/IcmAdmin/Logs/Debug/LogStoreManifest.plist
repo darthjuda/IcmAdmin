@@ -5,6 +5,313 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>016B1C8F-6CFD-42A3-B310-7B9BCBA54D9F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>016B1C8F-6CFD-42A3-B310-7B9BCBA54D9F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IcmAdmin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IcmAdmin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug IcmAdmin</string>
+			<key>timeStartedRecording</key>
+			<real>593868532.27952695</real>
+			<key>timeStoppedRecording</key>
+			<real>593868591.83752203</real>
+			<key>title</key>
+			<string>Debug IcmAdmin</string>
+			<key>uniqueIdentifier</key>
+			<string>016B1C8F-6CFD-42A3-B310-7B9BCBA54D9F</string>
+		</dict>
+		<key>05786D50-2BAB-4B4D-9C06-6B8AEEEA5A4B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>05786D50-2BAB-4B4D-9C06-6B8AEEEA5A4B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IcmAdmin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IcmAdmin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug IcmAdmin</string>
+			<key>timeStartedRecording</key>
+			<real>593867592.19389606</real>
+			<key>timeStoppedRecording</key>
+			<real>593867997.73524404</real>
+			<key>title</key>
+			<string>Debug IcmAdmin</string>
+			<key>uniqueIdentifier</key>
+			<string>05786D50-2BAB-4B4D-9C06-6B8AEEEA5A4B</string>
+		</dict>
+		<key>0D379909-B8C6-49BF-BEA9-6C0062DF9255</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0D379909-B8C6-49BF-BEA9-6C0062DF9255.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IcmAdmin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IcmAdmin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug IcmAdmin</string>
+			<key>timeStartedRecording</key>
+			<real>593876003.79426098</real>
+			<key>timeStoppedRecording</key>
+			<real>593876043.60202706</real>
+			<key>title</key>
+			<string>Debug IcmAdmin</string>
+			<key>uniqueIdentifier</key>
+			<string>0D379909-B8C6-49BF-BEA9-6C0062DF9255</string>
+		</dict>
+		<key>609C8053-9A61-4202-B7F2-0581DF9A6936</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>609C8053-9A61-4202-B7F2-0581DF9A6936.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IcmAdmin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IcmAdmin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug IcmAdmin</string>
+			<key>timeStartedRecording</key>
+			<real>593867998.73709095</real>
+			<key>timeStoppedRecording</key>
+			<real>593868100.95252705</real>
+			<key>title</key>
+			<string>Debug IcmAdmin</string>
+			<key>uniqueIdentifier</key>
+			<string>609C8053-9A61-4202-B7F2-0581DF9A6936</string>
+		</dict>
+		<key>75CF6A98-D891-4C36-BC02-9C73A458B478</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>75CF6A98-D891-4C36-BC02-9C73A458B478.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IcmAdmin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IcmAdmin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug IcmAdmin</string>
+			<key>timeStartedRecording</key>
+			<real>593868102.06263494</real>
+			<key>timeStoppedRecording</key>
+			<real>593868201.27288699</real>
+			<key>title</key>
+			<string>Debug IcmAdmin</string>
+			<key>uniqueIdentifier</key>
+			<string>75CF6A98-D891-4C36-BC02-9C73A458B478</string>
+		</dict>
+		<key>76C9C29A-39B4-45A3-A294-524442523D5C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>76C9C29A-39B4-45A3-A294-524442523D5C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IcmAdmin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IcmAdmin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug IcmAdmin</string>
+			<key>timeStartedRecording</key>
+			<real>593876486.08023202</real>
+			<key>timeStoppedRecording</key>
+			<real>593876515.65374005</real>
+			<key>title</key>
+			<string>Debug IcmAdmin</string>
+			<key>uniqueIdentifier</key>
+			<string>76C9C29A-39B4-45A3-A294-524442523D5C</string>
+		</dict>
+		<key>A58FA6A4-AE1B-448D-A834-EB06F13E0102</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A58FA6A4-AE1B-448D-A834-EB06F13E0102.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IcmAdmin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IcmAdmin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug IcmAdmin</string>
+			<key>timeStartedRecording</key>
+			<real>593876080.65758705</real>
+			<key>timeStoppedRecording</key>
+			<real>593876250.28338802</real>
+			<key>title</key>
+			<string>Debug IcmAdmin</string>
+			<key>uniqueIdentifier</key>
+			<string>A58FA6A4-AE1B-448D-A834-EB06F13E0102</string>
+		</dict>
+		<key>CB5D3D29-E27C-4B21-B4FB-0BAC74EE1BE3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CB5D3D29-E27C-4B21-B4FB-0BAC74EE1BE3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IcmAdmin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IcmAdmin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug IcmAdmin</string>
+			<key>timeStartedRecording</key>
+			<real>593868231.36067903</real>
+			<key>timeStoppedRecording</key>
+			<real>593868239.96663594</real>
+			<key>title</key>
+			<string>Debug IcmAdmin</string>
+			<key>uniqueIdentifier</key>
+			<string>CB5D3D29-E27C-4B21-B4FB-0BAC74EE1BE3</string>
+		</dict>
+		<key>FA4312AD-AAFB-4424-B840-F71B124D48A9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FA4312AD-AAFB-4424-B840-F71B124D48A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IcmAdmin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IcmAdmin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug IcmAdmin</string>
+			<key>timeStartedRecording</key>
+			<real>593876294.06617606</real>
+			<key>timeStoppedRecording</key>
+			<real>593876485.02107298</real>
+			<key>title</key>
+			<string>Debug IcmAdmin</string>
+			<key>uniqueIdentifier</key>
+			<string>FA4312AD-AAFB-4424-B840-F71B124D48A9</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

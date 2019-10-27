@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "450527d6d2bda9b486e94f943cac2f93"
+build_time: [1572183279, 626821000]
+inputs:
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/ViewController.swift": [1572183279, 563896818]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Service.swift": [1572174770, 830817211]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/AppDelegate.swift": [1572172949, 929981195]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/SceneDelegate.swift": [1572172949, 937652907]
