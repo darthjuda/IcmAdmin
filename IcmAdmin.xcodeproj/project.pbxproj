@@ -7,15 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B12FB804236849810048D9BB /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12FB803236849810048D9BB /* TabBarController.swift */; };
+		B12FB806236854080048D9BB /* UsersTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12FB805236854080048D9BB /* UsersTableViewController.swift */; };
+		B12FB808236854660048D9BB /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12FB807236854660048D9BB /* User.swift */; };
+		B12FB80A236854DD0048D9BB /* Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12FB809236854DD0048D9BB /* Download.swift */; };
+		B12FB80C236855150048D9BB /* DownloadsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12FB80B236855150048D9BB /* DownloadsTableViewController.swift */; };
+		B12FB80E2368568A0048D9BB /* GlobalConfigsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12FB80D2368568A0048D9BB /* GlobalConfigsViewController.swift */; };
+		B12FB810236856D10048D9BB /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12FB80F236856D10048D9BB /* Config.swift */; };
 		B14866E62365AC15000AC852 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14866E52365AC15000AC852 /* AppDelegate.swift */; };
 		B14866E82365AC15000AC852 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14866E72365AC15000AC852 /* SceneDelegate.swift */; };
-		B14866EA2365AC15000AC852 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14866E92365AC15000AC852 /* ViewController.swift */; };
+		B14866EA2365AC15000AC852 /* ServicesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14866E92365AC15000AC852 /* ServicesTableViewController.swift */; };
 		B14866ED2365AC15000AC852 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B14866EB2365AC15000AC852 /* Main.storyboard */; };
 		B14866EF2365AC18000AC852 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B14866EE2365AC18000AC852 /* Assets.xcassets */; };
 		B14866F22365AC18000AC852 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B14866F02365AC18000AC852 /* LaunchScreen.storyboard */; };
 		B14866FD2365AC18000AC852 /* IcmAdminTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14866FC2365AC18000AC852 /* IcmAdminTests.swift */; };
 		B14867082365AC18000AC852 /* IcmAdminUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14867072365AC18000AC852 /* IcmAdminUITests.swift */; };
 		B14867162365ADCD000AC852 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14867152365ADCD000AC852 /* Service.swift */; };
+		B1FA496D2369CEA900B50951 /* AlertService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA496C2369CEA900B50951 /* AlertService.swift */; };
+		B1FA496F2369CFD200B50951 /* NetworkingService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA496E2369CFD200B50951 /* NetworkingService.swift */; };
+		B1FA49712369D06300B50951 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FA49702369D06300B50951 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,10 +46,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B12FB803236849810048D9BB /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		B12FB805236854080048D9BB /* UsersTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersTableViewController.swift; sourceTree = "<group>"; };
+		B12FB807236854660048D9BB /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		B12FB809236854DD0048D9BB /* Download.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Download.swift; sourceTree = "<group>"; };
+		B12FB80B236855150048D9BB /* DownloadsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsTableViewController.swift; sourceTree = "<group>"; };
+		B12FB80D2368568A0048D9BB /* GlobalConfigsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalConfigsViewController.swift; sourceTree = "<group>"; };
+		B12FB80F236856D10048D9BB /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
 		B14866E22365AC15000AC852 /* IcmAdmin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IcmAdmin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B14866E52365AC15000AC852 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B14866E72365AC15000AC852 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		B14866E92365AC15000AC852 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B14866E92365AC15000AC852 /* ServicesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicesTableViewController.swift; sourceTree = "<group>"; };
 		B14866EC2365AC15000AC852 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B14866EE2365AC18000AC852 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B14866F12365AC18000AC852 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +68,9 @@
 		B14867072365AC18000AC852 /* IcmAdminUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IcmAdminUITests.swift; sourceTree = "<group>"; };
 		B14867092365AC18000AC852 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B14867152365ADCD000AC852 /* Service.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		B1FA496C2369CEA900B50951 /* AlertService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertService.swift; sourceTree = "<group>"; };
+		B1FA496E2369CFD200B50951 /* NetworkingService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingService.swift; sourceTree = "<group>"; };
+		B1FA49702369D06300B50951 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +98,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B12FB7FF236843050048D9BB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B12FB809236854DD0048D9BB /* Download.swift */,
+				B14867152365ADCD000AC852 /* Service.swift */,
+				B12FB807236854660048D9BB /* User.swift */,
+				B12FB80F236856D10048D9BB /* Config.swift */,
+				B1FA496C2369CEA900B50951 /* AlertService.swift */,
+				B1FA496E2369CFD200B50951 /* NetworkingService.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		B12FB800236843120048D9BB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B14866EB2365AC15000AC852 /* Main.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B12FB801236843230048D9BB /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				B12FB80B236855150048D9BB /* DownloadsTableViewController.swift */,
+				B14866E92365AC15000AC852 /* ServicesTableViewController.swift */,
+				B12FB803236849810048D9BB /* TabBarController.swift */,
+				B12FB805236854080048D9BB /* UsersTableViewController.swift */,
+				B12FB80D2368568A0048D9BB /* GlobalConfigsViewController.swift */,
+				B1FA49702369D06300B50951 /* LoginViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
 		B14866D92365AC15000AC852 = {
 			isa = PBXGroup;
 			children = (
@@ -101,14 +155,14 @@
 		B14866E42365AC15000AC852 /* IcmAdmin */ = {
 			isa = PBXGroup;
 			children = (
-				B14866E52365AC15000AC852 /* AppDelegate.swift */,
 				B14866E72365AC15000AC852 /* SceneDelegate.swift */,
-				B14866E92365AC15000AC852 /* ViewController.swift */,
-				B14866EB2365AC15000AC852 /* Main.storyboard */,
-				B14866EE2365AC18000AC852 /* Assets.xcassets */,
+				B14866E52365AC15000AC852 /* AppDelegate.swift */,
 				B14866F02365AC18000AC852 /* LaunchScreen.storyboard */,
+				B14866EE2365AC18000AC852 /* Assets.xcassets */,
 				B14866F32365AC18000AC852 /* Info.plist */,
-				B14867152365ADCD000AC852 /* Service.swift */,
+				B12FB800236843120048D9BB /* Views */,
+				B12FB7FF236843050048D9BB /* Models */,
+				B12FB801236843230048D9BB /* Controllers */,
 			);
 			path = IcmAdmin;
 			sourceTree = "<group>";
@@ -262,10 +316,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B14866EA2365AC15000AC852 /* ViewController.swift in Sources */,
+				B1FA49712369D06300B50951 /* LoginViewController.swift in Sources */,
+				B12FB80C236855150048D9BB /* DownloadsTableViewController.swift in Sources */,
+				B14866EA2365AC15000AC852 /* ServicesTableViewController.swift in Sources */,
+				B12FB80A236854DD0048D9BB /* Download.swift in Sources */,
 				B14867162365ADCD000AC852 /* Service.swift in Sources */,
+				B12FB810236856D10048D9BB /* Config.swift in Sources */,
+				B12FB806236854080048D9BB /* UsersTableViewController.swift in Sources */,
 				B14866E62365AC15000AC852 /* AppDelegate.swift in Sources */,
+				B12FB804236849810048D9BB /* TabBarController.swift in Sources */,
+				B12FB80E2368568A0048D9BB /* GlobalConfigsViewController.swift in Sources */,
 				B14866E82365AC15000AC852 /* SceneDelegate.swift in Sources */,
+				B1FA496D2369CEA900B50951 /* AlertService.swift in Sources */,
+				B1FA496F2369CFD200B50951 /* NetworkingService.swift in Sources */,
+				B12FB808236854660048D9BB /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

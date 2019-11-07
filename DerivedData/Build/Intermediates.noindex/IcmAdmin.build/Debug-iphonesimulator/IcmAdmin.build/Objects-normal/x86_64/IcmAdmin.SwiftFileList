@@ -1,4 +1,14 @@
-/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/ViewController.swift
-/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Service.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/LoginViewController.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/DownloadsTableViewController.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/ServicesTableViewController.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/Download.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/Service.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/Config.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/UsersTableViewController.swift
 /Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/AppDelegate.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/TabBarController.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/GlobalConfigsViewController.swift
 /Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/SceneDelegate.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/AlertService.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/NetworkingService.swift
+/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/User.swift

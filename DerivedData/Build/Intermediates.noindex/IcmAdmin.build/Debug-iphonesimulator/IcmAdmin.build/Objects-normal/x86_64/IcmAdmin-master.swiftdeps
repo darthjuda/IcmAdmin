@@ -1,8 +1,18 @@
 version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
 options: "450527d6d2bda9b486e94f943cac2f93"
-build_time: [1572183279, 626821000]
+build_time: [1572976545, 60823000]
 inputs:
-  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/ViewController.swift": [1572183279, 563896818]
-  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Service.swift": [1572174770, 830817211]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/LoginViewController.swift": [1572561142, 197377356]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/DownloadsTableViewController.swift": [1572355620, 360416394]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/ServicesTableViewController.swift": [1572355665, 698414876]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/Download.swift": [1572351176, 685044115]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/Service.swift": [1572359818, 533469070]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/Config.swift": [1572347745, 246107941]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/UsersTableViewController.swift": [1572359818, 512188868]
   "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/AppDelegate.swift": [1572172949, 929981195]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/TabBarController.swift": [1572447457, 290087090]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/GlobalConfigsViewController.swift": [1572347729, 780543777]
   "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/SceneDelegate.swift": [1572172949, 937652907]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/AlertService.swift": [1572444243, 591905398]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/NetworkingService.swift": [1572976544, 958355747]
+  "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Models/User.swift": [1572444388, 305107462]

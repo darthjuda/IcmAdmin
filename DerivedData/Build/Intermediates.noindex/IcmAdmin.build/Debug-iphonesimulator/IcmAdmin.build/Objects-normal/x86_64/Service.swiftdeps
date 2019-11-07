@@ -48,6 +48,7 @@ depends-member:
 - ["s23CustomStringConvertibleP", "intValue"]
 - ["s23CustomStringConvertibleP", "stringValue"]
 - ["Se", ""]
+- !private ["Se", "category"]
 - !private ["Se", "description"]
 - ["Se", "encode"]
 - !private ["Se", "id"]
@@ -56,6 +57,7 @@ depends-member:
 - !private ["Se", "price"]
 - !private ["s7DecoderP", "container"]
 - ["SE", ""]
+- !private ["SE", "category"]
 - !private ["SE", "description"]
 - ["SE", "encode"]
 - !private ["SE", "id"]
@@ -85,11 +87,16 @@ depends-member:
 - ["SH", "stringValue"]
 - !private ["s6HasherV", "combine"]
 - !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
 - !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
 - !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s22KeyedEncodingContainerV", "encodeIfPresent"]
 - !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
 - ["8IcmAdmin7ServiceV", "Int"]
 - ["8IcmAdmin7ServiceV", "String"]
+- ["8IcmAdmin7ServiceV", "category"]
 - ["8IcmAdmin7ServiceV", "deinit"]
 - ["8IcmAdmin7ServiceV", "description"]
 - ["8IcmAdmin7ServiceV", "encode"]
@@ -1325,4 +1332,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "36e30320c3ac6460e3860665ef95a30d"
+interface-hash: "ce1b6587e22cfcb1edf47442343568fc"
