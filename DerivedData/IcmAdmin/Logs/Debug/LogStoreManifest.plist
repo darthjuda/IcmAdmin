@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>26044B40-815F-47E1-94EB-985232E628EB</key>
+		<key>1FFC7CA8-C99F-459E-9EAA-AAF8E84CF124</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>26044B40-815F-47E1-94EB-985232E628EB.xcactivitylog</string>
+			<string>1FFC7CA8-C99F-459E-9EAA-AAF8E84CF124.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Debug IcmAdmin</string>
 			<key>timeStartedRecording</key>
-			<real>594668948.53173494</real>
+			<real>596475304.44299603</real>
 			<key>timeStoppedRecording</key>
-			<real>594669344.98569202</real>
+			<real>596475396.166255</real>
 			<key>title</key>
 			<string>Debug IcmAdmin</string>
 			<key>uniqueIdentifier</key>
-			<string>26044B40-815F-47E1-94EB-985232E628EB</string>
+			<string>1FFC7CA8-C99F-459E-9EAA-AAF8E84CF124</string>
 		</dict>
-		<key>3301A194-5D2E-4AC5-8D30-E3201E36B6A2</key>
+		<key>4FCDA37F-4778-4909-BCE2-2DE63D5DF81C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3301A194-5D2E-4AC5-8D30-E3201E36B6A2.xcactivitylog</string>
+			<string>4FCDA37F-4778-4909-BCE2-2DE63D5DF81C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Debug IcmAdmin</string>
 			<key>timeStartedRecording</key>
-			<real>594661112.15208697</real>
+			<real>596475682.61939895</real>
 			<key>timeStoppedRecording</key>
-			<real>594661315.038324</real>
+			<real>596475909.004269</real>
 			<key>title</key>
 			<string>Debug IcmAdmin</string>
 			<key>uniqueIdentifier</key>
-			<string>3301A194-5D2E-4AC5-8D30-E3201E36B6A2</string>
+			<string>4FCDA37F-4778-4909-BCE2-2DE63D5DF81C</string>
 		</dict>
-		<key>42BA30DF-5FF8-46E9-A99F-0DA641F251AA</key>
+		<key>5B65EA81-3482-4DE8-AF60-04C4CFC479D9</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>42BA30DF-5FF8-46E9-A99F-0DA641F251AA.xcactivitylog</string>
+			<string>5B65EA81-3482-4DE8-AF60-04C4CFC479D9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Debug IcmAdmin</string>
 			<key>timeStartedRecording</key>
-			<real>594669346.71525896</real>
+			<real>596475176.42355001</real>
 			<key>timeStoppedRecording</key>
-			<real>594669842.712134</real>
+			<real>596475261.48694503</real>
 			<key>title</key>
 			<string>Debug IcmAdmin</string>
 			<key>uniqueIdentifier</key>
-			<string>42BA30DF-5FF8-46E9-A99F-0DA641F251AA</string>
+			<string>5B65EA81-3482-4DE8-AF60-04C4CFC479D9</string>
 		</dict>
-		<key>68F98B54-066E-43BE-838E-19BE49CC5ABB</key>
+		<key>6D5CEBB3-7864-4823-9E9B-AD01FD890E9F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>68F98B54-066E-43BE-838E-19BE49CC5ABB.xcactivitylog</string>
+			<string>6D5CEBB3-7864-4823-9E9B-AD01FD890E9F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +134,15 @@
 			<key>signature</key>
 			<string>Debug IcmAdmin</string>
 			<key>timeStartedRecording</key>
-			<real>594666892.17761004</real>
+			<real>596475909.14511704</real>
 			<key>timeStoppedRecording</key>
-			<real>594668948.42005301</real>
+			<real>596476008.66008997</real>
 			<key>title</key>
 			<string>Debug IcmAdmin</string>
 			<key>uniqueIdentifier</key>
-			<string>68F98B54-066E-43BE-838E-19BE49CC5ABB</string>
+			<string>6D5CEBB3-7864-4823-9E9B-AD01FD890E9F</string>
 		</dict>
-		<key>6ADFB823-BD58-4934-9B14-608459A02616</key>
+		<key>9400D0E6-7681-4A36-A8EB-1DB668835ECA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -151,7 +151,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>6ADFB823-BD58-4934-9B14-608459A02616.xcactivitylog</string>
+			<string>9400D0E6-7681-4A36-A8EB-1DB668835ECA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +168,15 @@
 			<key>signature</key>
 			<string>Debug IcmAdmin</string>
 			<key>timeStartedRecording</key>
-			<real>594660899.78549898</real>
+			<real>596475398.19971704</real>
 			<key>timeStoppedRecording</key>
-			<real>594660906.05583405</real>
+			<real>596475548.57229602</real>
 			<key>title</key>
 			<string>Debug IcmAdmin</string>
 			<key>uniqueIdentifier</key>
-			<string>6ADFB823-BD58-4934-9B14-608459A02616</string>
+			<string>9400D0E6-7681-4A36-A8EB-1DB668835ECA</string>
 		</dict>
-		<key>7147A596-C5FE-48B4-949C-33B4834960DF</key>
+		<key>C54D315F-1DD4-4C91-89D1-C411810C6CF3</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -185,7 +185,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7147A596-C5FE-48B4-949C-33B4834960DF.xcactivitylog</string>
+			<string>C54D315F-1DD4-4C91-89D1-C411810C6CF3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +202,15 @@
 			<key>signature</key>
 			<string>Debug IcmAdmin</string>
 			<key>timeStartedRecording</key>
-			<real>594661317.60947096</real>
+			<real>596475548.65832198</real>
 			<key>timeStoppedRecording</key>
-			<real>594666699.81813598</real>
+			<real>596475590.60963404</real>
 			<key>title</key>
 			<string>Debug IcmAdmin</string>
 			<key>uniqueIdentifier</key>
-			<string>7147A596-C5FE-48B4-949C-33B4834960DF</string>
+			<string>C54D315F-1DD4-4C91-89D1-C411810C6CF3</string>
 		</dict>
-		<key>A7257CB4-B0B0-4C0D-9917-D1C1A51AD0E2</key>
+		<key>D844D13E-7F0C-4E0D-8C79-23E117832435</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -219,7 +219,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A7257CB4-B0B0-4C0D-9917-D1C1A51AD0E2.xcactivitylog</string>
+			<string>D844D13E-7F0C-4E0D-8C79-23E117832435.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,47 +236,13 @@
 			<key>signature</key>
 			<string>Debug IcmAdmin</string>
 			<key>timeStartedRecording</key>
-			<real>594666703.70928299</real>
+			<real>595877753.29621303</real>
 			<key>timeStoppedRecording</key>
-			<real>594666890.83756697</real>
+			<real>595878909.37861097</real>
 			<key>title</key>
 			<string>Debug IcmAdmin</string>
 			<key>uniqueIdentifier</key>
-			<string>A7257CB4-B0B0-4C0D-9917-D1C1A51AD0E2</string>
-		</dict>
-		<key>DDAF442B-10A7-421D-B7FF-FF4FBD446EAA</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>DDAF442B-10A7-421D-B7FF-FF4FBD446EAA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>IcmAdmin project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>IcmAdmin</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug IcmAdmin</string>
-			<key>timeStartedRecording</key>
-			<real>594254125.64977098</real>
-			<key>timeStoppedRecording</key>
-			<real>594256049.81073499</real>
-			<key>title</key>
-			<string>Debug IcmAdmin</string>
-			<key>uniqueIdentifier</key>
-			<string>DDAF442B-10A7-421D-B7FF-FF4FBD446EAA</string>
+			<string>D844D13E-7F0C-4E0D-8C79-23E117832435</string>
 		</dict>
 	</dict>
 </dict>

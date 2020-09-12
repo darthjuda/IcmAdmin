@@ -20,7 +20,7 @@ class ServicesTableViewController: UITableViewController {
 
     
     func fetchServiceData() {
-        let url = URL(string: "http://localhost:8080/api/services")!
+        let url = URL(string: "http://localhost:8080/services")!
         
         URLSession.shared.dataTask(with: url) {
             data, response, error in
@@ -50,7 +50,7 @@ class ServicesTableViewController: UITableViewController {
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "serviceCell", for: indexPath)
         let service = services[indexPath.row]
-        cell.textLabel?.text = "\(service.name) - $\(service.price)"
+        cell.textLabel?.text = "\(service.name) - $\(service.img)"
         cell.detailTextLabel?.text = service.description
         
         return cell

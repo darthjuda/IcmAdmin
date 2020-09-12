@@ -13,6 +13,6 @@ struct Service: Codable {
     var name: String
     var description: String
     var category: String?
-    var price: Int
+    var img: String
     
 }

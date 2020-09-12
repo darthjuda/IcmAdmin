@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>2A79D91C-2D65-466E-9894-6AC63D138800</key>
+		<key>561A5ABF-8076-452E-ADC6-8EC7A5018995</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2A79D91C-2D65-466E-9894-6AC63D138800.xcactivitylog</string>
+			<string>561A5ABF-8076-452E-ADC6-8EC7A5018995.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,251 +32,13 @@
 			<key>signature</key>
 			<string>Build IcmAdmin</string>
 			<key>timeStartedRecording</key>
-			<real>594666699.71709394</real>
+			<real>596475908.87408102</real>
 			<key>timeStoppedRecording</key>
-			<real>594666703.70268297</real>
+			<real>596475909.14106798</real>
 			<key>title</key>
 			<string>Build IcmAdmin</string>
 			<key>uniqueIdentifier</key>
-			<string>2A79D91C-2D65-466E-9894-6AC63D138800</string>
-		</dict>
-		<key>3D307E21-0202-4DEC-B0F3-43B194CBE34A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3D307E21-0202-4DEC-B0F3-43B194CBE34A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>IcmAdmin project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>IcmAdmin</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build IcmAdmin</string>
-			<key>timeStartedRecording</key>
-			<real>594669344.96789801</real>
-			<key>timeStoppedRecording</key>
-			<real>594669346.71253097</real>
-			<key>title</key>
-			<string>Build IcmAdmin</string>
-			<key>uniqueIdentifier</key>
-			<string>3D307E21-0202-4DEC-B0F3-43B194CBE34A</string>
-		</dict>
-		<key>5761C610-1035-4BA9-834F-B608E21223BD</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5761C610-1035-4BA9-834F-B608E21223BD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>IcmAdmin project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>IcmAdmin</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build IcmAdmin</string>
-			<key>timeStartedRecording</key>
-			<real>594666890.74625599</real>
-			<key>timeStoppedRecording</key>
-			<real>594666892.17477906</real>
-			<key>title</key>
-			<string>Build IcmAdmin</string>
-			<key>uniqueIdentifier</key>
-			<string>5761C610-1035-4BA9-834F-B608E21223BD</string>
-		</dict>
-		<key>5E72D486-E4A3-4352-97A4-BB77628D6F94</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5E72D486-E4A3-4352-97A4-BB77628D6F94.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>IcmAdmin project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>IcmAdmin</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build IcmAdmin</string>
-			<key>timeStartedRecording</key>
-			<real>594254123.70016301</real>
-			<key>timeStoppedRecording</key>
-			<real>594254125.64699304</real>
-			<key>title</key>
-			<string>Build IcmAdmin</string>
-			<key>uniqueIdentifier</key>
-			<string>5E72D486-E4A3-4352-97A4-BB77628D6F94</string>
-		</dict>
-		<key>5F392058-A86B-47F6-B197-FDF89C6A02D3</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5F392058-A86B-47F6-B197-FDF89C6A02D3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>IcmAdmin project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>IcmAdmin</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build IcmAdmin</string>
-			<key>timeStartedRecording</key>
-			<real>594668948.31054699</real>
-			<key>timeStoppedRecording</key>
-			<real>594668948.52789199</real>
-			<key>title</key>
-			<string>Build IcmAdmin</string>
-			<key>uniqueIdentifier</key>
-			<string>5F392058-A86B-47F6-B197-FDF89C6A02D3</string>
-		</dict>
-		<key>A0389ED0-0AB9-4AA4-BE6B-5DEFE777AE58</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A0389ED0-0AB9-4AA4-BE6B-5DEFE777AE58.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>IcmAdmin project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>IcmAdmin</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build IcmAdmin</string>
-			<key>timeStartedRecording</key>
-			<real>594661111.99905396</real>
-			<key>timeStoppedRecording</key>
-			<real>594661112.14830303</real>
-			<key>title</key>
-			<string>Build IcmAdmin</string>
-			<key>uniqueIdentifier</key>
-			<string>A0389ED0-0AB9-4AA4-BE6B-5DEFE777AE58</string>
-		</dict>
-		<key>D68600B1-D2E0-4263-B52E-B122BF9E35A6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D68600B1-D2E0-4263-B52E-B122BF9E35A6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>IcmAdmin project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>IcmAdmin</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build IcmAdmin</string>
-			<key>timeStartedRecording</key>
-			<real>594661314.96546495</real>
-			<key>timeStoppedRecording</key>
-			<real>594661317.60638797</real>
-			<key>title</key>
-			<string>Build IcmAdmin</string>
-			<key>uniqueIdentifier</key>
-			<string>D68600B1-D2E0-4263-B52E-B122BF9E35A6</string>
-		</dict>
-		<key>F83DC5DE-4401-4E2B-A0B2-DCD6057BED66</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F83DC5DE-4401-4E2B-A0B2-DCD6057BED66.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>IcmAdmin project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>IcmAdmin</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build IcmAdmin</string>
-			<key>timeStartedRecording</key>
-			<real>594660895.79028201</real>
-			<key>timeStoppedRecording</key>
-			<real>594660899.769997</real>
-			<key>title</key>
-			<string>Build IcmAdmin</string>
-			<key>uniqueIdentifier</key>
-			<string>F83DC5DE-4401-4E2B-A0B2-DCD6057BED66</string>
+			<string>561A5ABF-8076-452E-ADC6-8EC7A5018995</string>
 		</dict>
 	</dict>
 </dict>
