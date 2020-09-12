@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
-options: "04c7e5f80c73c186871faa3a9a37cae7"
-build_time: [1591268572, 782796000]
+options: "40cace1fb9b12de0970adbe279aa7604"
+build_time: [1599923392, 9658000]
 inputs:
   "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/LoginViewController.swift": [1572977044, 193655327]
   "/Users/darthjuda/Documents/projects/IcmAdmin/IcmAdmin/Controllers/DownloadsTableViewController.swift": [1572355620, 360416394]
